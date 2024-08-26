@@ -1,0 +1,144 @@
+[
+  {
+    "questionNo": "Q13.",
+    "question": "Which word starts with the letter \"K\"?",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/kite.mp3",
+      "./sound/queen.mp3",
+      "./sound/fish.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q14.",
+    "question": " Which word has the \"Q\" sound?",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/6.jpg",
+      "./images/7.jpg",
+      "./images/8.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/quick.mp3",
+      "./sound/king.mp3",
+      "./sound/kitten.mp3",
+      "./sound/cake.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q15.",
+    "question": " Which word starts with a \"C\" but sounds like a \"K\"?",
+    
+    "optionsImages": [
+      "./images/9.jpg",
+      "./images/10.jpg",
+      "./images/11.jpg",
+      "./images/12.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/city.mp3",
+      "./sound/circle.mp3",
+      "./sound/car.mp3",
+      "./sound/cycle.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word has the same starting sound as \"Queen\"?",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/13.jpg",
+      "./images/11.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/kite.mp3",
+      "./sound/quack.mp3",
+      "./sound/car.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word has the \"K\" sound but is spelt with a \"C\"?",
+    
+    "optionsImages": [
+      "./images/12.jpg",
+      "./images/11.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/cycle.mp3",
+      "./sound/car.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which of these words starts with the \"C\" sound? ",
+    
+    "optionsImages": [
+      "./images/6.jpg",
+      "./images/19.jpg",
+      "./images/18.jpg",
+      "./images/20.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/king.mp3",
+      "./sound/lock.mp3",
+      "./sound/duck.mp3",
+      "./sound/all.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which of these words starts with the letter \"Q\"? ",
+    
+    "optionsImages": [
+      "./images/2.jpg",
+      "./images/1.jpg",
+      "./images/6.jpg",
+      "./images/3.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/kite.mp3",
+      "./sound/cat.mp3",
+      "./sound/king.mp3",
+      "./sound/queen.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which of these words starts with the \"C\" sound? ",
+    
+    "optionsImages": [
+      "./images/15.jpg",
+      "./images/2.jpg",
+      "./images/16.jpg",
+      "./images/5.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/key.mp3",
+      "./sound/kite.mp3",
+      "./sound/class.mp3",
+      "./sound/quick.mp3"
+    ]
+  }
+      
+  ]
+  

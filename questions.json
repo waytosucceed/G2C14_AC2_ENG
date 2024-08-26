@@ -1,0 +1,264 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "Which letter do you hear at the beginning of the word: <img src='./images/1.jpg' alt='goldFish' width='80px' height='60px'> ",
+      "Q_sound":"./sound/cat.mp3",
+      "options": [
+        {
+          "text": "C",
+          "audio": ""
+        },
+        {
+          "text": "Q",
+          "audio": ""
+        },
+        {
+          "text": "K",
+          "audio": ""
+        },
+        {
+          "text": "S",
+          "audio": ""
+        }
+      ],
+      "correct": 0
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Hear the word and choose the correct spelling: <img src='./images/2.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/kite.mp3",
+        "options": [
+          {
+            "text": "Kit",
+            "audio": ""
+          },
+          {
+            "text": "Kite",
+            "audio": ""
+          },
+          {
+            "text": "Kiet",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q3. ",
+        "question": "Hear the word and choose the first letter of the word:<img src='./images/7.jpg' alt='goldFish' width='80px' height='60px'> ",
+        "Q_sound":"./sound/kitten.mp3",
+        "options": [
+          {
+            "text": "Q",
+            "audio": ""
+          },
+          {
+            "text": "C",
+            "audio": ""
+          },
+          {
+            "text": "K",
+            "audio": ""
+          },
+          {
+            "text": "X",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "Hear the word and choose the correct spelling:<img src='./images/21.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/cool.mp3",
+        "options": [
+          {
+            "text": "Col",
+            "audio": ""
+          },
+          {
+            "text": "Cool",
+            "audio": ""
+          },
+          {
+            "text": "Clue",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },{
+        "questionNo": "Q5.",
+        "question": "Click on the sound button and hear the word:<img src='./images/17.jpg' alt='goldFish' width='80px' height='60px'> Which letter makes the \"K\" sound at the start of the word?",
+        "Q_sound":"./sound/clock.mp3",
+        "options": [
+          {
+            "text": "C",
+            "audio": ""
+          },
+          {
+            "text": "Q",
+            "audio": ""
+          },
+          {
+            "text": "K",
+            "audio": ""
+          },
+          {
+            "text": "L",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      
+      {
+        "questionNo": "Q6.",
+        "question": "Click on the sound button and hear the word:<img src='./images/18.jpg' alt='goldFish' width='80px' height='60px'> What is the last sound in this word?",
+        "Q_sound":"./sound/duck.mp3",
+        "options": [
+          {
+            "text": "H",
+            "audio": ""
+          },
+          {
+            "text": "K",
+            "audio": ""
+          },
+          {
+            "text": "S",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q7.",
+        "question": "Hear the word:<img src='./images/8.jpg' alt='goldFish' width='80px' height='60px'> checks if its has \"K\" sound at the beginning. ",
+        "Q_sound":"./sound/cake.mp3",
+        "options": [
+          {
+            "text": "True",
+            "audio": ""
+          },
+          {
+            "text": "False",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q8.",
+        "question": "Which word ends with the same sound as :<img src='./images/18.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/duck.mp3",
+        "options": [
+          {
+            "text": "Lock",
+            "audio": ""
+          },
+          {
+            "text": "Cat",
+            "audio": ""
+          },
+          {
+            "text": "Queen",
+            "audio": ""
+          },
+          {
+            "text": "Kite",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "Click on the sound button and hear the sound. Which word has that sound at the start?",
+        "Q_sound":"./sound/kw.mp3",
+        "options": [
+          {
+            "text": "Queen",
+            "audio": ""
+          },
+          {
+            "text": "Quick",
+            "audio": ""
+          },
+          {
+            "text": "Quilt",
+            "audio": ""
+          },
+          {
+            "text": "All of the above",
+            "audio": ""
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "Which word rhymes with \"King\"? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Ring",
+            "audio": ""
+          },
+          {
+            "text": "Sing",
+            "audio": ""
+          },
+          {
+            "text": "Wing",
+            "audio": ""
+          },
+          {
+            "text": "All of the above",
+            "audio": ""
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "The word <img src='./images/3.jpg' alt='goldFish' width='80px' height='60px'> starts with the \"C\" sound as in “Cat”.",
+        "Q_sound":"./sound/queen.mp3",
+        "options": [
+          {
+            "text": "True",
+            "audio": ""
+          },
+          {
+            "text": "False",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q12.",
+        "question": "Fill in the blank:<br> The sound at the end of the word <img src='./images/5.jpg' alt='goldFish' width='80px' height='60px'> is made by the letter ____.",
+        "Q_sound":"./sound/quick.mp3",
+        "options": [
+          {
+            "text": "C",
+            "audio": ""
+          },
+          {
+            "text": "Q",
+            "audio": ""
+          },
+          {
+            "text": "K",
+            "audio": ""
+          }
+          ,
+          {
+            "text": "L",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      }
+  ]
+  
